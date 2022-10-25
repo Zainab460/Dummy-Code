@@ -3,20 +3,24 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
+}
+body {
     height: 100vh;
     width: 100vw;
 }
-
+.mainbody{
+    width: 100%;
+    height: 100%;
+}
 .box {
-    width:500px;
-    height: 200px;
-    border: 5px solid violet;
-    margin:0px 400px;
-    margin-bottom: 50px;
+
+    width:454px;
+    height: 220px;
+    border: 5px solid grey;
 
 }
 .for-practice {
-    height: 200px;
+    height: 150px;
 }
-
 
